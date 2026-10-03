@@ -34,9 +34,8 @@ This repository includes:
 ## 🚀 Live Prototype (GitHub Pages)
 The interactive prototype is available here:
 
-**https://YOUR-USERNAME.github.io/taniti-tourism-prototype**
+**https://akanoas.github.io/taniti-tourism-prototype**
 
-*(Replace YOUR-USERNAME with your GitHub username.)*
 
 This link is WGU‑safe and used for Task 1 and Task 2 submissions.
 
